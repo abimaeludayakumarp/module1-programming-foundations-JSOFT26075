@@ -28,6 +28,7 @@ The programs focus on developing programming fundamentals, logical thinking, pro
 **University:** Jain University, Kochi  
 **Module:** Programming Foundations  
 **Language:** C++
+**Faculty:** Rohit kumar
 
 ---
 
@@ -37,9 +38,9 @@ The programs focus on developing programming fundamentals, logical thinking, pro
 - 🔹 Variables and Data Types
 - 🔹 Arithmetic Operations
 - 🔹 Conditional Statements
-- 🔹 `if / else`
-- 🔹 `switch`
-- 🔹 `for` and `while` loops
+- 🔹 if / else
+- 🔹 switch
+- 🔹 for and while loops
 - 🔹 Number-based Problems
 - 🔹 Prime Numbers
 - 🔹 Palindrome
@@ -101,7 +102,7 @@ The programs focus on developing programming fundamentals, logical thinking, pro
 
 ## 📂 Repository Structure
 
-```text
+text
 module1-programming-foundations-JSOFT26075/
 │
 ├── 🔰 Basic Programs
@@ -109,16 +110,4 @@ module1-programming-foundations-JSOFT26075/
 ├── 🔁 Loop Programs
 ├── 🧮 Calculation Programs
 ├── 🧩 Logic Exercises
-│
-├── helloworld.cpp
-├── even_or_odd.cpp
-├── armstrongnoornot.cpp
-├── palindromeornot.cpp
-├── primenumberornot.cpp
-├── fibnocciseries.cpp
-├── menucalculator.cpp
-├── gradecalculator.cpp
-├── reverseano.cpp
-├── sumofdigits.cpp
-├── vowel.cpp
-└── ...
+
