@@ -102,7 +102,7 @@ The programs focus on developing programming fundamentals, logical thinking, pro
 
 ## 📂 Repository Structure
 
-text
+
 module1-programming-foundations-JSOFT26075
 │
 ├── 🔰 Basic Programs
