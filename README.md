@@ -40,7 +40,11 @@ The programs focus on developing programming fundamentals, logical thinking, pro
 - 🔹 Conditional Statements
 - 🔹 if / else
 - 🔹 switch
+<<<<<<< Updated upstream
 - 🔹 for and while loops
+=======
+- 🔹 for andv while loops
+>>>>>>> Stashed changes
 - 🔹 Number-based Problems
 - 🔹 Prime Numbers
 - 🔹 Palindrome
@@ -102,12 +106,20 @@ The programs focus on developing programming fundamentals, logical thinking, pro
 
 ## 📂 Repository Structure
 
+<<<<<<< Updated upstream
 
 module1-programming-foundations-JSOFT26075
+=======
+=
+module1-programming-foundations-JSOFT26075/
+>>>>>>> Stashed changes
 │
 ├── 🔰 Basic Programs
 ├── 🔢 Number Programs
 ├── 🔁 Loop Programs
 ├── 🧮 Calculation Programs
 ├── 🧩 Logic Exercises
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
